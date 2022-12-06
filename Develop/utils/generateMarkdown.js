@@ -61,7 +61,8 @@ ${data.usage}
 
 ##License
 
-[![License](${renderLicenseBadge(data.license)})](https://opensource.org/licenses/Apache-2.0)
+[![License](${renderLicenseBadge(data.license)})]
+
   
 ## Contributing
 
