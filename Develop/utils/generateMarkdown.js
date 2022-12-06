@@ -61,7 +61,7 @@ ${data.usage}
 
 ##License
 
-[![License](${renderLicenseBadge(data.license)})]
+[![License](${renderLicenseBadge(data.license)})](https://shields.io/)
 
   
 ## Contributing
