@@ -59,7 +59,7 @@ ${data.installation}
 
 ${data.usage}
 
-##License
+## License
 
 [![License](${renderLicenseBadge(data.license)})](https://shields.io/)
 
